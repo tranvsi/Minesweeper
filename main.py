@@ -12,7 +12,7 @@ root.resizable(False, False)
 
 top_frame = Frame(
     root,
-    bg='black',  # change to black later
+    bg='black',
     width=settings.WIDTH,
     height=utils.height_prct(25)
 )
